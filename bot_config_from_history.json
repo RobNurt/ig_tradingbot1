@@ -1,0 +1,7 @@
+{
+    "global": {
+        "ema_fast": 12,
+        "ema_slow": 26,
+        "rsi_len": 14
+    }
+}
