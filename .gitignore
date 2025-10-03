@@ -1,0 +1,19 @@
+# Sensitive files - never commit these!
+.env
+*.env
+config.ini
+credentials.json
+api_keys.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp

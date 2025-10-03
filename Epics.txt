@@ -1,0 +1,29 @@
+=== TRADING EPICS REFERENCE ===
+
+COMMODITIES (Spot/Daily)
+------------------------
+Gold Spot: CS.D.USCGC.TODAY.IP (DFB)
+Silver Spot: CS.D.USCSI.TODAY.IP (DFB)
+
+INDICES (Daily Funded Bets - Use these for ladder trading)
+----------------------------------------------------------
+Russell 2000: IX.D.RUSSELL.DAILY.IP (DFB)
+FTSE 100: IX.D.FTSE.DAILY.IP (DFB)
+S&P 500: IX.D.SPTRD.DAILY.IP (DFB)
+Dow Jones: IX.D.DOW.DAILY.IP (DFB)
+DAX (Germany 40): IX.D.DAX.DAILY.IP (DFB)
+
+US TREASURY BONDS (Futures only - Dec-25 expiry)
+------------------------------------------------
+2-Year T-Note: IR.D.02YEAR100.Month2.IP
+5-Year T-Note: IR.D.05YEAR100.Month2.IP
+10-Year T-Note: IR.D.10YEAR100.Month2.IP
+Treasury Bond: IR.D.BOND100.Month2.IP
+Ultra Treasury Bond: IR.D.ULTRA100.Month2.IP
+
+FUTURES CONTRACTS (for reference)
+---------------------------------
+Gold Dec-25: MT.D.GC.Month1.IP
+Silver Dec-25: MT.D.SI.Month3.IP
+Russell 2000 Dec-25: IX.D.RUSSELL.MONTH2.IP
+FTSE 100 Dec-25: IX.D.FTSE.MONTH1.IP
